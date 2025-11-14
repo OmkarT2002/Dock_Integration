@@ -1,0 +1,16 @@
+[2025-10-30 15:08:45] ✅ Door closed properly (distance: 46.17px)
+[2025-10-30 15:10:21] ✅ Door closed properly (distance: 46.84px)
+[2025-10-30 15:12:19] ✅ Door closed properly (distance: 45.88px)
+[2025-10-30 15:41:19] ⚠️ ERROR: Could not detect both lights after 13s.
+[2025-10-30 15:45:33] ⚠️ ERROR: Could not detect both lights after 13s.
+[2025-10-30 15:49:24] ⚠️ ERROR: The doors are.
+[2025-10-30 15:54:40] ❌ Door not closed properly (distance: 48.08px)
+[2025-10-30 15:59:33] ✅ Door closed properly (distance: 47.80px)
+[2025-10-30 16:01:51] ✅ Door closed properly (distance: 47.80px)
+[2025-10-30 16:04:10] ❌ Door not closed properly (distance: 170.47px)
+[2025-10-30 16:05:31] ✅ Door closed properly (distance: 45.88px)
+[2025-11-06 16:42:30] ERROR: Could not detect both lights after check.
+[2025-11-07 14:23:31] ERROR: Could not detect both lights after check.
+[2025-11-07 14:25:52] ERROR: Could not detect both lights after check.
+[2025-11-09 15:40:43] Door not closed properly (distance: 451.13px)
+[2025-11-09 15:42:13] ERROR: Could not detect both lights after check.
